@@ -7,6 +7,8 @@ body {
 }
 
 @media only screen and (min-width: 60em) {
-    main {
-      display: inline-block;
-    }
+
+  main {
+    display: inline-block;
+  }
+}
