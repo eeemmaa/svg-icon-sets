@@ -39,7 +39,7 @@ li:nth-child(2) {
 
   li:first-child,
   li:nth-child(2) {
-    border-bottom: 0 solid rgba(255, 255, 255, .5);
+    border-bottom: 0;
     border-right: 3px solid rgba(255, 255, 255, .5);
   }
 
